@@ -9,7 +9,6 @@ import { UserComponent } from './components/user/user.component';
   declarations: [
     AppComponent,
     UserComponent
-    
   ],
   imports: [
     BrowserModule
