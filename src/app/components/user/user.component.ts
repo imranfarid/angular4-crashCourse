@@ -33,7 +33,7 @@ export class UserComponent implements OnInit {
 
   onClick(){
     this.name = 'Spider-Man';
-    this.hobbies.push('New Hobby');
+    this.hobbies.push('fight');
   }
 
   addHobby(hobbyAdd){
